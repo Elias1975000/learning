@@ -1,3 +1,9 @@
+h1 {
+  background-color:black;
+  color: yellow;
+  font-family: verdana;
+}
+
 body {
   background-color: black;
   color: yellow;
